@@ -1,0 +1,29 @@
+Flask
+pandas
+scikit-learn
+joblib
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+missingno
+plotly
+wordcloud
+openpyxl
+
+# Machine Learning et modélisation
+scikit-learn
+xgboost
+catboost
+lightgbm
+
+# Optimisation et recherche d'hyperparamètres
+hyperopt
+bayesian-optimization
+
+# AutoML et simplification du processus ML
+pycaret
+
+# Outils pour exécuter le notebook
+jupyter
